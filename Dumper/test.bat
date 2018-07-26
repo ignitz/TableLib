@@ -1,0 +1,1 @@
+Dumper.exe ..\files\legenda.bin ..\files\TabBIN_win.tbl 2a0 af2 ..\output\decoded_test.txt

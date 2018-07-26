@@ -1,0 +1,215 @@
+// ../files/legenda.bin Script Dump [$2A0-$AF2] - Wed Jul 25 21:33:34 2018
+
+// [$2A0]
+<p1>Não há mais como voltar.<END>
+
+// [$2BF]
+<p1>Mas valerá à pena.<END>
+
+// [$2D8]
+<p1>O que há de errado com isto?<END>
+
+// [$2FA]
+<p1>Está perdendo pressão elétrica.<END>
+
+// [$321]
+<p1>Dane-se, vou achar um outro<END>
+
+// [$341]
+<p1>jeito de sair daqui.<END>
+
+// [$35A]
+<p1>Mônica?<END>
+
+// [$367]
+<p1>Não esperava que voltasse.<END>
+
+// [$387]
+<p1>Após o seu pequeno incidente,<END>
+
+// [$3AA]
+<p1>pensei que você iria se esconder<END>
+
+// [$3D0]
+<p1>sob uma pedra, igual a uma criancinha.<END>
+
+// [$3FB]
+<p1>O que é esta cápsula?<END>
+
+// [$417]
+<p1>Espere, espere, você também<END>
+
+// [$439]
+<p1>está atrás disto?<END>
+
+// [$451]
+<p1>Está ou não está?<END>
+
+// [$46A]
+<p1>Você está tão...<END>
+
+// [$482]
+<p1>Pare! Eu não entendo do<END>
+
+// [$49F]
+<p1>que você está falando.<END>
+
+// [$4BC]
+<p1>Não se faça de inocente garota.<END>
+
+// [$4E2]
+<p1>Você não pode me enganar.<END>
+
+// [$502]
+<p1>Nunca pôde me enganar.<END>
+
+// [$51E]
+<p1>Mas, talvez possamos fazer algo.<END>
+
+// [$543]
+<p1>Me dê o seu cartão ID.<END>
+
+// [$560]
+<p1>Yoko, a salva-vidas.<END>
+
+// [$579]
+<p1>Me deixou feliz em te achar.<END>
+
+// [$59A]
+<p1>Tenha uma boa vida.<END>
+
+// [$5B2]
+<p1>O que resta dela.<END>
+
+// [$5C8]
+<p1>Vamos, vamos, VAMOS!<END>
+
+// [$5E1]
+<p1>Não está ativando. Por quê?!<END>
+
+// [$605]
+<p1>Dá um tempo.<END>
+
+// [$617]
+<p1>Não creio nisso.<END>
+
+// [$62D]
+<p1>Preciso reparar algo<END>
+
+// [$646]
+<p1>para sair daqui.<END>
+
+// [$65B]
+                         <END>
+
+// [$675]
+<p1>Tenho a mania de enfeitar histórias,<END>
+
+// [$69F]
+<p1>  mas não tem necessidade...    <END>
+
+// [$6C5]
+<p1>Raccoon é agora um zoológico de<END>
+
+// [$6EB]
+<p1>monstruosidades.<END>
+
+// [$700]
+<p1>Sabia que esta era uma cidade <END>
+
+// [$723]
+<p1> estranha, mas vi levá-la ao <END>
+
+// [$746]
+<p1> outro nível.  <END>
+
+// [$75B]
+<p1> Preferia está na guerra...  <END>
+
+// [$77E]
+<p1>O que eles queriam com estes<END>
+
+// [$79F]
+<p1>experimentos?<END>
+
+// [$7B1]
+<p1>Não entendo...<END>
+
+// [$7C5]
+<p1> Bem, o caso é que escapou  <END>
+
+// [$7E7]
+<p1>deste congelador. <END>
+
+// [$7FE]
+<p1>Isto é o que acontece quando manipula<END>
+
+// [$829]
+<p1>  a estrutura do DNA  <END>
+
+// [$844]
+<p1> quando pensa em ser Deus. <END>
+
+// [$864]
+<p1> Só os homens trazem o seu  <END>
+
+// [$886]
+<p1>próprio escuro... <END>
+
+// [$89E]
+<p1> <$C3><$81>s vezes não é bom mesmo  <END>
+
+// [$8C1]
+<p1>saber tanto...<END>
+
+// [$8D4]
+<p1>Os cientistas afirmam em serem deuses<END>
+
+// [$8FE]
+<p1>criando monstros, <END>
+
+// [$915]
+<p1>e nem se quer podem curar um resfriado.<END>
+
+// [$941]
+<p1> Conseguimos derrotar a criatura da  <END>
+
+// [$96B]
+<p1>câmara frigorífica.<END>
+
+// [$985]
+<p1>Já acabou? <END>
+
+// [$996]
+<p1> Talvez tenha liberado um terror <END>
+
+// [$9BC]
+<p1> sem nome...  <END>
+
+// [$9CF]
+<p1>   Uma falha na memória...    <END>
+
+// [$9F3]
+<p1>Lembro ter o meu conhecimento<END>
+
+// [$A15]
+<p1>  mas nada sobre a mim... <END>
+
+// [$A34]
+<p1>Acho que se for para lembrar de tudo, a <END>
+
+// [$A61]
+<p1>situação será bem diferente.  <END>
+
+// [$A87]
+<p1>Raccoon tem uma "face oculta".  <END>
+
+// [$AAC]
+<p1>Agora que eu vi<END>
+
+// [$AC0]
+<p1> tentarei esquecer tudo da minha <END>
+
+// [$AE6]
+<p1>vida... <END>
+
